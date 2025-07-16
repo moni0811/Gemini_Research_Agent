@@ -73,7 +73,7 @@ This project demonstrates how to build an intelligent research assistant that co
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/gemini-research-agent.git
+git clone https://github.com/moni0811/gemini-research-agent.git
 cd gemini-research-agent
 ```
 
@@ -123,4 +123,3 @@ How does quantum computing differ from classical computing?
 - Comprehensive findings
 - Professional conclusion
 - Detailed source citations
-- 
